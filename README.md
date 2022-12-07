@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THOSE-EYES
-- 👀 I’m interested in programming and music
-- 🌱 I’m currently learning C++ at advanced level and startigng to learn Rust
+- 👀 I’m interested in programming, electronics, music and antique things
+- 🌱 I’m currently learning C++ and Assembly at advanced level, starting to learn Rust
 - 💞️ I’m looking to collaborate on interesting projects about OS or embedded programming
 
 <!---
